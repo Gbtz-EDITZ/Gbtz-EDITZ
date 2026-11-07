@@ -1,5 +1,5 @@
 
-name: Update Haxelyn Profile Cards
+name: Haxelyn Profile Statistics
 
 on:
   schedule:
@@ -14,17 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Profile Cards
-        uses: seijikohara/profile-cards-action@v1
+      - name: Generate Statistics
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: Gbtz-EDITZ
-          cards: overview,languages,contributions,momentum
-          output-dir: assets
-          themes: dark,light
-          commit: true
-          commit-message: "Update Haxelyn profile statistics"
+          USERNAME: Gbtz-EDITZ
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
+          THEME: nord_dark
+          ANIMATION: draw
+          DURATION: "3"
+          NAME: Haxelyn
           
