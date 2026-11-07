@@ -1,0 +1,30 @@
+
+name: Update Haxelyn Profile Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Profile Cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Gbtz-EDITZ
+          cards: overview,languages,contributions,momentum
+          output-dir: assets
+          themes: dark,light
+          commit: true
+          commit-message: "Update Haxelyn profile statistics"
+          
