@@ -1,160 +1,185 @@
 
-<!-- ================================= -->
-<!--       HAXELYN PROFILE v3.0        -->
-<!--        AZURE CYBER ANIME          -->
-<!-- ================================= -->
+<!--
+  HAXELYN // CYBER NEBULA
+  VERSION 4.0
+-->
 
-<<div align="center">
+<div align="center">
 
-<img src="./haxelyn-cyan-banner.png"
-     width="100%"
-     alt="HAXELYN Cyan Anime Banner"/>
+<img src="./haxelyn-cyan-banner.png" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=700&color=55E8FF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;WELCOME+TO+HAXELYN'S+WORLD;GAME+DEVELOPER+%E2%9C%A6;DIGITAL+ARTIST+%E2%9C%A6;CREATING+ANOTHER+UNIVERSE..."/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Gbtz-EDITZ&style=for-the-badge&color=00CFE8&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/Gbtz-EDITZ?style=for-the-badge&color=00CFE8&label=FOLLOWERS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=55DDFB&center=true&vCenter=true&width=600&lines=Welcome+to+HAXELYN's+World!;Game+Developer+%F0%9F%8E%AE;Programmer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Music+Enthusiast+%F0%9F%8E%A7;Turning+Ideas+Into+Reality..."/>
+<div align="center">
+
+# ◈ CHARACTER PROFILE ◈
+
+`HAXELYN`  `ID: GBTZ-EDITZ`  `CLASS: CREATOR`
+
+</div>
+
+<table>
+<tr>
+<td width="65%">
+
+### 🌌 About Me
+
+Hello! I'm **Haxelyn**.
+
+A creative person who loves building things, exploring technology and creating new experiences.
+
+- 🎮 Game Developer
+- 💻 Programmer
+- 🎨 Digital Artist
+- 🎧 Music Enthusiast
+- 🌐 Exploring the digital universe
+
+**Current Status:** Creating something new...
+
+</td>
+<td width="35%" align="center">
+
+<img src="./haxelyn-cyan-banner.png" width="100%"/>
+
+**HAXELYN**
+
+`ONLINE`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gbtz-EDITZ&label=PROFILE+VISITORS&color=00CFE8&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Gbtz-EDITZ?style=for-the-badge&logo=github&color=00CFE8&labelColor=071827"/>
-
-</div>
-
----
-
 <div align="center">
 
-## 🌌 ABOUT ME
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
 
-*「Creating worlds, one line of code at a time.」*
+## ⚙️ TECHNOLOGY SYSTEM
 
-</div>
+*Tools I use to create and build.*
 
-Hi! I'm **Haxelyn**, also known as **Gbtz-EDITZ**.
-
-I'm a creative developer who enjoys building games, writing code, creating digital art, and listening to music.
-
-```python
-class Haxelyn:
-    def __init__(self):
-        self.name = "Haxelyn"
-        self.username = "Gbtz-EDITZ"
-
-        self.roles = [
-            "Game Developer",
-            "Programmer",
-            "Digital Artist",
-            "Music Enthusiast"
-        ]
-
-        self.languages = [
-            "Python",
-            "Lua",
-            "JavaScript"
-        ]
-
-        self.status = "Always creating something new"
-
-    def introduce(self):
-        return "Welcome to my digital world!"
-```
-
----
-
-## ⚡ TECHNOLOGY & TOOLS
-
-<div align="center">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,lua,js,nodejs,html,css,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROBLOX%20STUDIO-00BFFF?style=for-the-badge&logo=roblox&logoColor=white"/>
-<img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-071827?style=for-the-badge&logo=unity&logoColor=55DDFB"/>
-<img src="https://img.shields.io/badge/DIGITAL%20ART-00CFE8?style=for-the-badge&logo=krita&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-00CFE8?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LUA-071827?style=for-the-badge&logo=lua&logoColor=55E8FF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-00CFE8?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
 
 </div>
 
----
-
-## 🚀 CURRENT PROJECTS
+## 🚀 PROJECT DATABASE
 
 <table>
 <tr>
-<td width="50%">
-<h3>🎃 THE HALLOWEEN</h3>
-A multiplayer horror game built in Roblox.
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00CFE8?style=flat-square"/>
+### 🎃 THE HALLOWEEN
+
+Multiplayer horror game.
+
+<img src="https://img.shields.io/badge/ROBLOX-GAME-00CFE8?style=for-the-badge"/>
+
 </td>
-<td width="50%">
-<h3>🤖 DISCORD BOT</h3>
-Music automation and server management.
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00CFE8?style=flat-square"/>
+### 🤖 DISCORD BOT
+
+Music and automation experiments.
+
+<img src="https://img.shields.io/badge/NODE.JS-BOT-00CFE8?style=for-the-badge"/>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>🐍 PYTHON PROJECTS</h3>
-Personal coding experiments and automation.
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00CFE8?style=flat-square"/>
+### 🐍 PYTHON LAB
+
+Coding experiments and utilities.
+
+<img src="https://img.shields.io/badge/PYTHON-EXPERIMENT-00CFE8?style=for-the-badge"/>
+
 </td>
-<td width="50%">
-<h3>🎨 DIGITAL ART</h3>
-Character concepts and creative experiments.
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ONGOING-00CFE8?style=flat-square"/>
+### 🎨 DIGITAL ART
+
+Character concepts and illustrations.
+
+<img src="https://img.shields.io/badge/ART-CREATIVE-00CFE8?style=for-the-badge"/>
+
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GITHUB STATISTICS
+<br/>
 
 <div align="center">
 
-<img width="100%" src="./profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
+
+## 📊 SYSTEM STATISTICS
+
+<br/>
+
+<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%"/>
 
 <br/><br/>
 
-<img width="49%" src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
-<img width="49%" src="./profile-summary-card-output/nord_dark/3-stats.svg"/>
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="49%"/>
+<img src="./profile-summary-card-output/nord_dark/3-stats.svg" width="49%"/>
 
 <br/><br/>
 
-<img width="100%" src="./profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+<img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" width="100%"/>
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
+## 🐍 CONTRIBUTION MATRIX
 
 <img src="https://raw.githubusercontent.com/Gbtz-EDITZ/Gbtz-EDITZ/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071827,50:00D9FF,100:071827"/>
 
-## 🎧 MUSIC & CREATIVE MIND
+## 🎧 CURRENT FREQUENCY
 
-<div align="center">
+`CREATING` • `CODING` • `IMAGINING`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00CFE8"/>
+*"The world is just another canvas."*
 
-**♪ Code with passion. Create with imagination.**
+<br/>
 
-*Every project begins with an idea.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071827,50:087EAA,100:55E8FF&height=160&section=footer&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071827,50:087EAA,100:55DDFB&height=120&section=footer"/>
+**HAXELYN // END OF TRANSMISSION**
+
+`THANK YOU FOR VISITING MY WORLD`
 
 </div>
