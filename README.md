@@ -4,9 +4,13 @@
 <!--        AZURE CYBER ANIME          -->
 <!-- ================================= -->
 
-<div align="center">
+<<div align="center">
 
-<img src="./assets/haxelyn-banner.png" width="100%" alt="Haxelyn Anime Banner"/>
+<img src="./haxelyn-cyan-banner.png"
+     width="100%"
+     alt="HAXELYN Cyan Anime Banner"/>
+
+</div>
 
 <br/>
 
